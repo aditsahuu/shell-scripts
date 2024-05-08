@@ -1,5 +1,0 @@
-all:
-  hosts:
-    edge:
-      ansible_user: etp
-      ansible_host: ip
